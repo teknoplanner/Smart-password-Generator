@@ -1,7 +1,7 @@
 # Smart-password-Generator-python-flask
 
 
-![SMARTPASS GENERATOR](samrtpass.gif)
+![SMARTPASS GENERATOR](smartpass.gif)
 
 Program Sederhana python flask
 #rockyou chacker
