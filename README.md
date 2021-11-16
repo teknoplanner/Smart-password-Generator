@@ -6,4 +6,5 @@
 Program Sederhana python flask
 #rockyou chacker
 #secure (hashing + salting)
+#Random vocabulary
 #easy to remember
